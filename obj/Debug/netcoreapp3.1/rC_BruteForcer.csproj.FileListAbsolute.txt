@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\bin\Debug\netcoreapp3.1\rC_BruteForcer.exe
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\bin\Debug\netcoreapp3.1\rC_BruteForcer.deps.json
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\bin\Debug\netcoreapp3.1\rC_BruteForcer.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\bin\Debug\netcoreapp3.1\rC_BruteForcer.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\bin\Debug\netcoreapp3.1\rC_BruteForcer.dll
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\bin\Debug\netcoreapp3.1\rC_BruteForcer.pdb
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\obj\Debug\netcoreapp3.1\rC_BruteForcer.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\obj\Debug\netcoreapp3.1\rC_BruteForcer.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\obj\Debug\netcoreapp3.1\rC_BruteForcer.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\obj\Debug\netcoreapp3.1\rC_BruteForcer.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\obj\Debug\netcoreapp3.1\rC_BruteForcer.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\obj\Debug\netcoreapp3.1\rC_BruteForcer.dll
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\obj\Debug\netcoreapp3.1\rC_BruteForcer.pdb
+C:\Users\Rodrigo\Desktop\rC_BruteForcer\obj\Debug\netcoreapp3.1\rC_BruteForcer.genruntimeconfig.cache
